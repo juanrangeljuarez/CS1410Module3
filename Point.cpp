@@ -57,7 +57,7 @@ void showPoint(const struct Point &p)
 
 void updatePoint(struct Point &p)
 {
-    // Update x and y by incrementing their value
+    // Update x and y by incrementing their valu
     // by 1
     p.x += 1.0;
     p.y += 1.0;
