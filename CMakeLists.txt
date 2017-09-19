@@ -3,5 +3,5 @@ project(hola)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES Point.cpp)
+set(SOURCE_FILES JuanRangelJuarezHw2_Task1.cpp)
 add_executable(hola ${SOURCE_FILES})
