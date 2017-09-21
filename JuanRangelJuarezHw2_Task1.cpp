@@ -1,5 +1,5 @@
 // File: JuanRangelJuarezHw2_Task1
-// Created by Juan Rangel Juarez on 9/19/17 for CS1410.
+// Created by Juan Rangel Juarez on 9/20/17 for CS1410.
 // Copyright (c) 2017 WSU
 //
 #include <iostream>
